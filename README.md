@@ -1,16 +1,33 @@
-### Hi there 👋
+<h3 align="center">
+  Welcome to ardiansah profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<!--
-**ardian-sh/ardian-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
+ <p>
+    <a target="blank"><img src="https://komarev.com/ghpvc/?username=ardian-sh"/></a>
+    <a target="blank"><img src="https://img.shields.io/github/stars/ardian-sh/ardian-sh" alt="Stars Badge"/></a>
+    <a target="blank"><img src="https://img.shields.io/github/forks/ardian-sh/ardian-sh" alt="Forks Badge"/></a>
+    <a target="blank"><img src="https://img.shields.io/github/issues-pr/ardian-sh/ardian-sh" alt="Pull Requests Badge"/></a>
+    <a target="blank"><img src="https://img.shields.io/github/issues/ardian-sh/ardian-sh" alt="Issues Badge"/></a>
+    <a target="blank"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ardian-sh/ardian-sh?color=2b9348"></a>
+</p>
+  <p>
+    <a href="https://www.facebook.com/ardiansah.info" target="blank"><img src="https://img.shields.io/badge/Ardiansah-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+    <a href="ardiansah-info.medium.com" target="blank"><img src="https://img.shields.io/badge/Ardiansah-30302f?style=flat&logo=medium" /></a>
+    <a href="www.linkedin.com/in/ardiansah" target="blank"><img src="https://img.shields.io/badge/Ardiansah-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
+</h3>
 
-Here are some ideas to get you started:
+#### Top Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ardian-sh&repo=cekongkirApp&theme=dracula" alt="cekongkirapp">
+ <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ardian-sh&repo=AlqurankuApp&theme=dracula" alt="cekongkirapp">
+</p>
+
+#### 💥 stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardian-sh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" alt="Ardiansah's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardian-sh&layout=compact&theme=dracula&hide_border=true" />
+
