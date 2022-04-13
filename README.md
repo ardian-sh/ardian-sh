@@ -23,7 +23,8 @@
 
 <p align="left">
 <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ardian-sh&repo=cekongkirApp&theme=dracula" alt="cekongkirapp">
- <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ardian-sh&repo=AlqurankuApp&theme=dracula" alt="cekongkirapp">
+ <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ardian-sh&repo=AlqurankuApp&theme=dracula" alt="alqurankuapp">
+  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ardian-sh&repo=api-wilayah-indonesia&theme=dracula" alt="apiwilayahindonesia">
 </p>
 
 #### 💥 stats
