@@ -5,7 +5,6 @@
 <br/>
 <br/>
  <p>
-    <a target="blank"><img src="https://komarev.com/ghpvc/?username=ardian-sh"/></a>
     <a target="blank"><img src="https://img.shields.io/github/stars/ardian-sh/ardian-sh" alt="Stars Badge"/></a>
     <a target="blank"><img src="https://img.shields.io/github/forks/ardian-sh/ardian-sh" alt="Forks Badge"/></a>
     <a target="blank"><img src="https://img.shields.io/github/issues-pr/ardian-sh/ardian-sh" alt="Pull Requests Badge"/></a>
@@ -13,7 +12,6 @@
     <a target="blank"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ardian-sh/ardian-sh?color=2b9348"></a>
 </p>
   <p>
-    <a href="https://www.facebook.com/ardiansah.info" target="blank"><img src="https://img.shields.io/badge/Ardiansah-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
     <a href="ardiansah-info.medium.com" target="blank"><img src="https://img.shields.io/badge/Ardiansah-30302f?style=flat&logo=medium" /></a>
     <a href="www.linkedin.com/in/ardiansah" target="blank"><img src="https://img.shields.io/badge/Ardiansah-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
