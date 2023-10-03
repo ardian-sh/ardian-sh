@@ -26,8 +26,6 @@
   <a href="https://github.com/ardian-sh/Archive-file-to-zip"> <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ardian-sh&repo=Archive-file-to-zip&theme=dracula" alt="Archive-file-to-zip"></a>
 </p>
 
-#### 💥 stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardian-sh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" alt="Ardiansah's github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardian-sh&layout=compact&theme=dracula&hide_border=true" />
 
