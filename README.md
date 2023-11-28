@@ -12,7 +12,6 @@
     <a target="blank"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ardian-sh/ardian-sh?color=2b9348"></a>
 </p>
   <p>
-    <a href="ardiansah-info.medium.com" target="blank"><img src="https://img.shields.io/badge/Ardiansah-30302f?style=flat&logo=medium" /></a>
     <a href="https://www.linkedin.com/in/ardiansah/" target="blank"><img src="https://img.shields.io/badge/Ardiansah-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 </h3>
