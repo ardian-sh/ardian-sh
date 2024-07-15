@@ -1,30 +1,23 @@
-<h3 align="center">
-  Welcome to ardiansah profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hi there, I'm Ardiansah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<br/>
-<br/>
- <p>
-    <a target="blank"><img src="https://img.shields.io/github/stars/ardian-sh/ardian-sh" alt="Stars Badge"/></a>
-    <a target="blank"><img src="https://img.shields.io/github/forks/ardian-sh/ardian-sh" alt="Forks Badge"/></a>
-    <a target="blank"><img src="https://img.shields.io/github/issues-pr/ardian-sh/ardian-sh" alt="Pull Requests Badge"/></a>
-    <a target="blank"><img src="https://img.shields.io/github/issues/ardian-sh/ardian-sh" alt="Issues Badge"/></a>
-    <a target="blank"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ardian-sh/ardian-sh?color=2b9348"></a>
-</p>
-  <p>
-    <a href="https://www.linkedin.com/in/ardiansah/" target="blank"><img src="https://img.shields.io/badge/Ardiansah-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
-</h3>
+Welcome to my GitHub profile! I'm passionate about software development and love working on exciting projects. Here's a little bit about me:
 
-#### Top Repositories
+## 🚀 About Me
+- 🌱 Currently working as a .NET Developer
+- 👨‍💻 Experienced in **.NET Core, jQuery, SQL Server, Java Spring Boot, Bootstrap**
+- 🔥 Enthusiastic about exploring new technologies and innovative solutions.
+- 🌙 Enjoys coding at night.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ardiansah/)**
 
-<p align="left">
-  <a href="https://github.com/ardian-sh/cekongkirApp"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ardian-sh&repo=cekongkirApp&theme=dracula" alt="cekongkirapp"></a>
-  <a href="https://github.com/ardian-sh/AlqurankuApp"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ardian-sh&repo=AlqurankuApp&theme=dracula" alt="alqurankuapp"></a>
-  <a href="https://github.com/ardian-sh/api-wilayah-indonesia"> <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ardian-sh&repo=api-wilayah-indonesia&theme=dracula" alt="apiwilayahindonesia"></a>
-  <a href="https://github.com/ardian-sh/Archive-file-to-zip"> <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ardian-sh&repo=Archive-file-to-zip&theme=dracula" alt="Archive-file-to-zip"></a>
-</p>
+## 🛠️ Technologies & Tools
 
+![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-00C853?style=flat-square&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardian-sh&layout=compact&theme=dracula&hide_border=true" />
 
