@@ -20,4 +20,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00C853?style=flat-square&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+## 📈 &nbsp;My GitHub History ##
+![Snake animation](https://raw.githubusercontent.com/ardian-sh/ardian-sh/output/github-contribution-grid-snake.svg)
+
 
