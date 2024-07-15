@@ -7,7 +7,10 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 👨‍💻 Experienced in **.NET Core, jQuery, SQL Server, Java Spring Boot, Bootstrap**
 - 🔥 Enthusiastic about exploring new technologies and innovative solutions.
 - 🌙 Enjoys coding at night.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ardiansah/)**
+- 📫 How to reach me
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ardiansah/)
+
 
 ## 🛠️ Technologies & Tools
 
